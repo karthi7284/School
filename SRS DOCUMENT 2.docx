@@ -1,0 +1,67 @@
+Purpose
+The School Homework Management System aims to help students, teachers, and administrators manage assignments efficiently. The system will allow teachers to assign homework, students to submit it, and administrators to monitor submissions
+
+Scope
+This system will provide:
+
+Teachers: The ability to assign homework, set deadlines, and grade submissions.
+
+Students: A portal to view and submit assignments.
+
+Administrators: A dashboard to oversee the process.
+
+Notifications: Automatic reminders for deadlines
+
+Product Perspective
+The system will be a web-based application accessible via browsers and mobile devices.
+
+Product Functions
+Homework Management: Teachers can create, modify, and delete assignments.
+
+Submission System: Students can submit assignments in various formats.
+
+Deadline Alerts: Automatic reminders for students and teachers.
+
+Grading System: Teachers can provide feedback and grades.
+
+Dashboard: Admins can monitor activities
+
+
+Functional Requirements
+User Authentication: Secure login for students, teachers, and administrators.
+
+Homework Management:
+
+Teachers can create assignments with deadlines.
+
+Students can submit their work before the deadline.
+
+Notifications:
+
+System sends reminders before deadlines.
+
+Grading & Feedback:
+
+Teachers can assign scores and provide comments.
+
+Reports & Dashboard:
+
+Admins can view user activity and homework statistics
+
+Non-Functional Requirements
+Performance: The system should support up to 1000 concurrent users.
+
+Security:
+
+Data encryption for homework submissions.
+
+Role-based access control.
+
+Usability:
+
+Mobile-friendly interface.
+
+Availability:
+
+99.9% uptime with cloud-based hosting.
+
